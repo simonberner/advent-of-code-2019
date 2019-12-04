@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- https://www.mkyong.com/logging/slf4j-logback-tutorial/ -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <Pattern>
+                <pattern>%boldGreen(%d{HH:mm:ss.SSS}) %highlight([%-5p|) %boldCyan(%60C{60}|%4L]): %m%n</pattern>
+            </Pattern>
+        </layout>
+    </appender>
+
+    <logger name="com.simonberner" level="debug" additivity="false">
+        <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <root level="debug">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+
+</configuration>
