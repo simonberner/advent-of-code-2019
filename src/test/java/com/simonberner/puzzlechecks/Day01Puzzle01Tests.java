@@ -3,7 +3,7 @@ package com.simonberner.puzzlechecks;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.simonberner.puzzles.Day01Puzzle01;
+import com.simonberner.puzzles.day01.Day01Puzzle01;
 
 import lombok.extern.slf4j.Slf4j;
 
