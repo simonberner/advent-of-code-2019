@@ -5,7 +5,7 @@ Find the challenge and all infos on the [Advent of Code site](https://adventofco
 
 This repo contains my solutions written in Java for the Advent Of Code 2019 challenge :christmas_tree:
 Be aware that my solutions are by far not the best, most elegant, clean and lean (in the sense of having only a minimum amount of lines of code) ones.
-Rather it was important to me to experiment and learn new things along the way ans as also take some detours from time to time.
+Rather it was important to me to experiment and learn new things along the way as also take some detours from time to time.
 
 ### Other solutions
 - [JavaScript](https://github.com/programmiri/advent-of-code-2019) by [Mirjam Bäuerlein](https://twitter.com/mirjam_diala)
