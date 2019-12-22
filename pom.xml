@@ -17,7 +17,7 @@
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <maven.surefire.failsafe.version>3.0.0-M4</maven.surefire.failsafe.version>
         <maven.versions.plugin.versino>2.7</maven.versions.plugin.versino>
-        <mockito.version>3.2.0</mockito.version>
+        <mockito.version>3.2.4</mockito.version>
         <owasp.dependency.check.version>5.2.4</owasp.dependency.check.version>
         <java.release>13</java.release>
         <jupiter.version>5.5.2</jupiter.version>
