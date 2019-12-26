@@ -82,7 +82,7 @@ public class Day02Puzzle01 {
     }
 
     // Java Scanner see: https://www.baeldung.com/java-scanner#10-change-scanner-delimiter
-    private static List<Integer> getPuzzleInput() throws FileNotFoundException {
+    static List<Integer> getPuzzleInput() throws FileNotFoundException {
         var records = new ArrayList<Integer>();
         try (Scanner scanner = new Scanner(new File("src/main/resources/Day02PuzzleInput.csv"));) {
             scanner.useDelimiter(",");
