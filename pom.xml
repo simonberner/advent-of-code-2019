@@ -19,7 +19,7 @@
         <maven.versions.plugin.versino>2.7</maven.versions.plugin.versino>
         <mockito.version>3.2.4</mockito.version>
         <owasp.dependency.check.version>5.2.4</owasp.dependency.check.version>
-        <java.release>13</java.release>
+        <java.release>14</java.release>
         <jupiter.version>5.5.2</jupiter.version>
         <jqwik.version>1.2.1</jqwik.version>
         <vavr.version>0.10.2</vavr.version>
