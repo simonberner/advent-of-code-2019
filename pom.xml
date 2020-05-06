@@ -13,15 +13,15 @@
     <properties>
         <apache.commons.math.version>3.6.1</apache.commons.math.version>
         <logback.version>1.2.3</logback.version>
-        <lombok.version>1.18.10</lombok.version>
+        <lombok.version>1.18.12</lombok.version>
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <maven.surefire.failsafe.version>3.0.0-M4</maven.surefire.failsafe.version>
         <maven.versions.plugin.versino>2.7</maven.versions.plugin.versino>
-        <mockito.version>3.2.4</mockito.version>
+        <mockito.version>3.3.0</mockito.version>
         <owasp.dependency.check.version>5.2.4</owasp.dependency.check.version>
         <java.release>14</java.release>
-        <jupiter.version>5.5.2</jupiter.version>
-        <jqwik.version>1.2.1</jqwik.version>
+        <jupiter.version>5.6.0</jupiter.version>
+        <jqwik.version>1.2.2</jqwik.version>
         <vavr.version>0.10.2</vavr.version>
     </properties>
 
